@@ -30,11 +30,15 @@ Clean two-page Streamlit interface
 
 Python
 
+Numpy
+
 Pandas
 
 Scikit-learn
 
 Streamlit
+
+Joblib
 
 ## How to Run
 ```bash
