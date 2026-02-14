@@ -1,44 +1,52 @@
-#📦 Demand Forecasting & Inventory Optimization
+# 📦 Demand Forecasting & Inventory Optimization
 
 A machine learning system that predicts short-term product demand and generates inventory reorder recommendations using historical retail sales data.
 
-##🔍 Overview
+---
+
+## 🔍 Overview
 
 This project forecasts near-term daily demand for individual Store–Product combinations and integrates the predictions with inventory planning logic to support data-driven replenishment decisions.
 
 The system combines:
 
-Time-based demand forecasting
+- Time-based demand forecasting
 
-Feature engineering (lags & rolling averages)
+- Feature engineering (lags & rolling averages)
 
-Inventory-aware reorder calculations
+- Inventory-aware reorder calculations
 
-Interactive Streamlit deployment
+- Interactive Streamlit deployment
 
-##⚙️ Key Features
+---
 
-Short-horizon demand prediction (1–14 days ahead)
+## ⚙️ Key Features
 
-Store & product-level forecasting
+- Short-horizon demand prediction (1–14 days ahead)
 
-Inventory-aware reorder recommendation
+- Store & product-level forecasting
 
-Clean two-page Streamlit interface
+- Inventory-aware reorder recommendation
 
-##🛠 Tech Stack
+- Clean two-page Streamlit interface
 
-Python
+---
 
-Numpy
+## 🛠 Tech Stack
 
-Pandas
+- Python
 
-Scikit-learn
+- Numpy
 
-Streamlit
+- Pandas
 
-Joblib
+- Scikit-learn
+
+- Streamlit
+
+- Joblib
+
+---
 
 ## How to Run
 ```bash
