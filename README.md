@@ -1,4 +1,4 @@
-# 📦 Demand Forecasting & Inventory Optimization
+#  Demand Forecasting & Inventory Optimization
 
 A machine learning system that predicts short-term product demand and generates inventory reorder recommendations using historical retail sales data.
 
@@ -23,7 +23,7 @@ The system forecasts daily demand for individual **Store–Product combinations*
 
 
 
-## 🧠 Machine Learning Approach
+##  Machine Learning Approach
 
 ### Feature Engineering
 To capture demand patterns and short-term trends, the following features were created:
@@ -40,7 +40,7 @@ Short-term recursive forecasting is used to estimate demand for future dates wit
 
 
 
-## 📦 Inventory Recommendation Logic
+##  Inventory Recommendation Logic
 
 Predicted demand is combined with operational constraints to generate reorder recommendations.
 
