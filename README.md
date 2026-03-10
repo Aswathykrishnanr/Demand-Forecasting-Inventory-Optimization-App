@@ -21,7 +21,7 @@ The system forecasts daily demand for individual **Store–Product combinations*
 - Interactive Streamlit web application
 - End-to-end pipeline from data preprocessing to deployment
 
----
+
 
 ## 🧠 Machine Learning Approach
 
@@ -38,7 +38,7 @@ A **Random Forest Regressor** was used to model demand patterns because it perfo
 ### Forecasting Method
 Short-term recursive forecasting is used to estimate demand for future dates within a limited prediction horizon.
 
----
+
 
 ## 📦 Inventory Recommendation Logic
 
@@ -55,7 +55,6 @@ Reorder Quantity
 
 This connects machine learning predictions with practical inventory planning decisions.
 
----
 
 ## 🛠 Tech Stack
 
