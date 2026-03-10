@@ -48,7 +48,3 @@ The system combines:
 
 ---
 
-## How to Run
-```bash
-pip install -r requirements.txt
-python -m streamlit run app.py
