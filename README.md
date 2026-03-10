@@ -2,7 +2,7 @@
 
 A machine learning system that predicts short-term product demand and generates inventory reorder recommendations using historical retail sales data.
 
----
+
 
 ## 🔍 Overview
 
@@ -11,7 +11,7 @@ This project builds a demand forecasting model that predicts near-term product d
 
 The system forecasts daily demand for individual **Store–Product combinations** and converts those predictions into **inventory reorder recommendations**.
 
----
+
 
 ## ⚙️ Key Features
 
